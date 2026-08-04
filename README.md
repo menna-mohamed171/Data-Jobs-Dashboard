@@ -38,11 +38,11 @@ This project covers key Power BI features and data visualization best practices:
 The report is structured into two main pages:
 
 ### 1. High-Level Market Overview
-![Data Jobs Dashboard Page 1](Data Jobs Dashboard.png)  
+![Data Jobs Dashboard Page 1](<Data Jobs Dashboard.png>)  
 Provides a high-level view of the data job market, featuring core KPIs such as job volume, median salaries, and top hiring job roles at a glance.
 
 ### 2. Job Title Drill-Through
-![Data Jobs Dashboard Page 2](Job Title Drill Through.png)  
+![Data Jobs Dashboard Page 2](<Job Title Drill Through.png>)  
 A detailed view that allows deep-dive analysis for specific job titles, including salary ranges, remote work availability, and regional job distributions.
 
 ---
